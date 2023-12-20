@@ -1,0 +1,57 @@
+.notification {
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.success {
+  color: green;
+}
+.error {
+  padding: 1rem;
+  border: 1px solid;
+  background-color: rgb(191, 219, 201);
+  border-radius: 1rem;
+  margin-block-end: 1rem;
+}
+.main{
+  padding: 2rem;
+}
+.phonebook{
+  color: #379466;
+}
+.Add{
+  color:#379466 ;
+}
+.Num{
+  color: #379466;
+}
+.addPerson{
+  background-color: #2d24aa;
+  color: white;
+  border-radius:10px 2px 10px ;
+}
+.Delete{
+  background-color: #2d24aa;
+  color: white;
+  border-radius:10px 2px 10px ;
+  margin-left: 10px;
+}
+.phone{
+  color: #379466;
+}
+.Add{
+  margin-top: 7px;
+  background-color: #2d24aa;
+  color: white;
+  border-radius: 50px ;
+}
+.delete{
+  background-color: #2d24aa;
+  color: white;
+  border-radius: 50px;
+  margin-left: 1rem;
+}
